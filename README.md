@@ -1,6 +1,6 @@
 # Cactus-Identification-Kaggle
 
-This repo contains the code for the Kaggle Challenge ** Aerial Cactus Idetification. **
+This repo contains the code for the Kaggle Challenge **Aerial Cactus Idetification.**
 
 **-----------------------------------**
 ### Dependencies
