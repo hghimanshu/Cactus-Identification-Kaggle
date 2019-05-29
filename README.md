@@ -26,7 +26,7 @@ This repo contains the code for the Kaggle Challenge **Aerial Cactus Idetificati
 > python testing_network.py
 
 Note : Some values used in the model are --
-> epochs = 100
+> epochs = 100 , 
 > Optimizer = RMSProp with learning rate = 1e-3 and decay of 1e-6
 
 ### The training and testing images can be downloaded from [this](https://drive.google.com/open?id=1RpJX5b2Xcs6TbMLgNNXBp8O5qYpW64Ul) link. 
