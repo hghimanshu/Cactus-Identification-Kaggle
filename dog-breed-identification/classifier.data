@@ -1,0 +1,5 @@
+classes=120
+train=/home/himanshu/Himanshu/Animal-Classifier/Kaggle-Challenges/dog-breed-identification/train.txt
+valid=/home/himanshu/Himanshu/Animal-Classifier/Kaggle-Challenges/dog-breed-identification/test.txt
+names=/home/himanshu/Himanshu/Animal-Classifier/Kaggle-Challenges/dog-breed-identification/classifier.names
+backup=/home/himanshu/Himanshu/alpr-unconstrained/darknet/backup/

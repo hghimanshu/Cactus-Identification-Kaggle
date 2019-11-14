@@ -4,7 +4,7 @@ import os
 def makeDataFile():
     data_file = path + '/dog-breed-identification/classifier.data'
     with open(data_file,'w+') as f:
-        f.write('classes='+str(total_classes)+'\n')
+        f.write('classes='+str(len(total_classes))+'\n')
         f.write('train='+trainfile+'\n')
         f.write('valid='+testfile+'\n')
         f.write('names='+namesfile+'\n')
@@ -29,5 +29,5 @@ if __name__ == "__main__":
 
 
     makeNameFile()
-    makeNameFile()
+    makeDataFile()
     
